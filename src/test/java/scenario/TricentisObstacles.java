@@ -3,7 +3,6 @@ package scenario;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
-
 import com.test.amazon.BaseClass;
 
 public class TricentisObstacles extends BaseClass {
